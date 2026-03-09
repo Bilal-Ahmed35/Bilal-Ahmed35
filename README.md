@@ -107,11 +107,6 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Ahmed35&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/bilalshah34/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Bilal Ahmed's LinkedIn"/></a> <a href="mailto:bilalahmedshah35@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Bilal Ahmed's Email"/></a> <a href="https://bilal-ahmed-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a></p>
 
