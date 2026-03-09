@@ -12,11 +12,11 @@
 
 ## 📌 About Me
 
-🚀 Full-Stack Developer passionate about building apps that just work
-🌱 I love crafting smooth frontend experiences and designing clean, efficient backend systems
-👨‍💻 Currently deep-diving into Backend Architecture, System Design, and Cloud-Native Development
-⚡ Enjoy optimizing APIs, databases, and authentication flows almost as much as creating intuitive, interactive UIs
-😄 Always learning, experimenting, and building web apps and SaaS platforms that scale
+* 🚀 **Full-Stack Developer passionate about building apps that just work**  
+* 🌱 **I love crafting smooth frontend experiences and designing clean, efficient backend systems**  
+* 👨‍💻 **Currently deep-diving into Backend Architecture, System Design, and Cloud-Native Development**  
+* ⚡ **Enjoy optimizing APIs, databases, and authentication flows almost as much as creating intuitive, interactive UIs**  
+* 😄 **Always learning, experimenting, and building web apps and SaaS platforms that scale**  
 
 ## 🧠 My Core Focus Areas
 
