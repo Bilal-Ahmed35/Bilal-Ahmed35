@@ -3,8 +3,8 @@
 <h3 align="center">Full-Stack Developer | UI designer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=OneebDev">
-    <img src="https://komarev.com/ghpvc/?username=OneebDev&label=Profile%20views&color=00FFFF&style=flat-square" alt="OneebDev's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=Bilal-Ahmed35">
+    <img src="https://komarev.com/ghpvc/?username=Bilal-Ahmed35&label=Profile%20views&color=00FFFF&style=flat-square" alt="Bilal Ahmed's profile views" />
   </a>
 </p>
 
@@ -12,12 +12,11 @@
 
 ## 📌 About Me
 
-* 🚀 Full-Stack Developer with **strong backend focus** and production-level experience
-* 🌱 Currently deep-diving into **Backend Architecture, System Design, and Cloud-Native Development**
-* 👯 Looking to collaborate on **scalable web applications, backend systems, and SaaS platforms**
-* 🤝 Interested in working on **API design, authentication systems, databases, and distributed systems**
-* 💡 I enjoy building clean, secure, and scalable backends that power modern frontend experiences
-* ⚡ Fun fact: I love optimizing backend performance and database queries more than UI animations 😄
+*🚀 Full-Stack Developer passionate about building apps that just work
+*🌱 I love crafting smooth frontend experiences and designing clean, efficient backend systems
+*👨‍💻 Currently deep-diving into Backend Architecture, System Design, and Cloud-Native Development
+*⚡ Enjoy optimizing APIs, databases, and authentication flows almost as much as creating intuitive, interactive UIs
+*😄 Always learning, experimenting, and building web apps and SaaS platforms that scale
 
 ## 🧠 My Core Focus Areas
 
@@ -51,26 +50,26 @@
 
 ## 🎯 What I’m Aiming For
 
-* Becoming a **high-level backend / full-stack engineer**
-* Building **real-world, production-grade systems**
-* Contributing to **open-source backend tools & frameworks**
-* Working on **high-impact products and scalable platforms**
+*Becoming a high-level frontend / full-stack engineer**
+*Building real-world, production-ready user interfaces**
+*Contributing to open-source frontend libraries & UI frameworks**
+*Working on high-impact, interactive, and scalable web applications**
 
 ---
 
-📫 *Let’s build powerful backends that scale effortlessly and frontends that feel seamless.*
+📫 Let’s create smooth, engaging, and responsive user interfaces that users actually enjoy.*
 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OneebDev&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="OneebDev's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=OneebDev&theme=nightowl&hide_border=true&cache_seconds=86400" alt="OneebDev's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Ahmed35&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Bilal Ahmed's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Bilal-Ahmed35&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Bilal Ahmed's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OneebDev&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Oneeb Arif's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilal-Ahmed35&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bilal Ahmed's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=OneebDev&theme=nightowl&radius=10" alt="OneebDev's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Ahmed35&theme=nightowl&radius=10" alt="Bilal Ahmed's Activity Graph" />
 </p>
 
 
@@ -110,14 +109,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneebDev&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Ahmed35&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/oneeb-arif-886433324/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Oneeb Arif's LinkedIn"/></a> <a href="mailto:oneeb590@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Oneeb Arif's Email"/></a> <a href="https://oneeb.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/bilalshah34/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Bilal Ahmed's LinkedIn"/></a> <a href="mailto:bilalahmedshah35@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Bilal Ahmed's Email"/></a> <a href="https://bilal-ahmed-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a></p>
 
 ## 💬 Quote
-> ✨ "Building clean backends that scale and frontends that perform." ✨
+> ✨ "Designing frontends that shine and backends that keep them running flawlessly." ✨
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
